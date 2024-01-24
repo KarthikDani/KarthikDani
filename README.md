@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PyTorch, MONAI Frameworks and Electronics**
 
-- 📝 I create content at <a href="(https://www.instagram.com/_karthikdani/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram-alt.svg" alt="_karthikdani" height="30" width="40" /></a>
+- 📝 I create content at <a href="(https://www.instagram.com/_karthikdani/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_karthikdani" height="30" width="40" /></a>
 
 - 💬 Ask me about **Python, Unity, Arduino, ROS**
 
