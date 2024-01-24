@@ -12,8 +12,6 @@
   </a> 
 </p>
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KarthikDani&theme=dracula)
-
 📝 I also create content at <a href="(https://www.instagram.com/_karthikdani/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_karthikdani" height="30" width="40" /></a> <a href="(https://www.youtube.com/@karthikdani)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="_karthikdani" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
