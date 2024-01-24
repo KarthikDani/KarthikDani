@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm Karthik Dani</h1>
 <h3 align="center">A Multi Domain Enthusiast and Young Scientist</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=karthikdani&label=Profile%20views&color=0e75c6&style=flat" alt="karthikdani" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=karthikdani&label=Profile%20views&color=282a36&style=flat" alt="karthikdani" /> </p>
+- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthikdani" alt="karthikdani" /></a> </p>
 
 - 🌱 I’m currently learning **PyTorch, MONAI Frameworks and Electronics**
 
 - 📝 I create content at [https://www.instagram.com/_karthikdani/](https://www.instagram.com/_karthikdani/)
 
 - 💬 Ask me about **Python, Unity, Arduino, ROS**
-
-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthikdani" alt="karthikdani" /></a> </p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
