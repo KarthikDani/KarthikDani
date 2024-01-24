@@ -5,10 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=karthikdani&label=Profile%20views&color=bd93f9&style=flat" alt="karthikdani" /> 
 </p>
 
-<p align="center"> 
+<p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=KarthikDani&theme=dracula" alt="karthikdani" />
     <img src="https://github-profile-trophy.vercel.app/?username=karthikdani&theme=dracula" alt="karthikdani" />
+     <img src="http://github-readme-streak-stats.herokuapp.com?user=KarthikDani&theme=dracula" alt="karthikdani" />
   </a> 
 </p>
 
