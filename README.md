@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karthik Dani</h1>
 <h3 align="center">A Multi Domain Enthusiast and Young Scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikdani&label=Profile%20views&color=0e75c6&style=flat" alt="karthikdani" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikdani&label=Profile%20views&color=0e75c6&style=round" alt="karthikdani" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthikdani" alt="karthikdani" /></a> </p>
 
