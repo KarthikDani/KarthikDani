@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **PyTorch, MONAI Frameworks and Electronics**
 
-- 👨‍💻 All of my projects are available at [github.com/KarthikDani](github.com/KarthikDani)
-
 - 📝 I create content at [https://www.instagram.com/_karthikdani/](https://www.instagram.com/_karthikdani/)
 
 - 💬 Ask me about **Python, Unity, ROS**
