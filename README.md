@@ -18,5 +18,5 @@
 
 ### My Stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KarthikDani&show_icons=true&theme=dracula&count_private=true)
+<--![GitHub stats](https://github-readme-stats.vercel.app/api?username=KarthikDani&show_icons=true&theme=dracula&count_private=true)-->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KarthikDani&theme=dracula)](https://git.io/streak-stats)
