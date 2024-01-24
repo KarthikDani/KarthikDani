@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=karthikdani&label=Profile%20views&color=0e75c6&style=flat" alt="karthikdani" /> </p>
 
-![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivammenda&show_icons=true&theme=dracula&count_private=true)
+![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarthikDani&show_icons=true&theme=dracula&count_private=true)
 ![My](https://komarev.com/ghpvc/?username=KarthikDani&color=blue)
 
 ### :fire: My Stats :
