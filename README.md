@@ -3,10 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=karthikdani&label=Profile%20views&color=0e75c6&style=flat" alt="karthikdani" /> </p>
 
-![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarthikDani&show_icons=true&theme=dracula&count_private=true)
-![My](https://komarev.com/ghpvc/?username=KarthikDani&color=blue)
-
-### :fire: My Stats :
+### My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KarthikDani&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthikdani" alt="karthikdani" /></a> </p>
@@ -34,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthikdani&show_icons=true&locale=en" alt="karthikdani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikdani&" alt="karthikdani" /></p>
+
+![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarthikDani&show_icons=true&theme=dracula&count_private=true)
