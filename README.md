@@ -26,7 +26,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthikdani&show_icons=true&locale=en&layout=compact" alt="karthikdani" /></p>
 
 
-### My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KarthikDani&theme=dark&background=000000)](https://git.io/streak-stats)
+### My Stats:
 
 ![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarthikDani&show_icons=true&theme=dracula&count_private=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KarthikDani&theme=dracula)](https://git.io/streak-stats)
