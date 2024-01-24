@@ -6,8 +6,10 @@
 </p>
 
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthikdani&theme=dracula" alt="karthikdani" /></a> 
-  <a> <img src="http://github-readme-streak-stats.herokuapp.com?user=KarthikDani&theme=dracula" alt="karthikdani" /></a> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=karthikdani&theme=dracula" alt="karthikdani" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=KarthikDani&theme=dracula" alt="karthikdani" />
+  </a> 
 </p>
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KarthikDani&theme=dracula)
