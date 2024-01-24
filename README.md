@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=karthikdani&label=Profile%20views&color=bd93f9&style=flat" alt="karthikdani" /> </p>
 - <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthikdani&theme=dracula" alt="karthikdani" /></a> </p>
 
-- 🌱 I’m currently learning **PyTorch, MONAI Frameworks and Electronics**
+- 🌱 I’m currently learning **PyTorch, MONAI and Electronics**
 
 - 📝 I create content at <a href="(https://www.instagram.com/_karthikdani/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_karthikdani" height="30" width="40" /></a> <a href="(https://www.youtube.com/@karthikdani)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="_karthikdani" height="30" width="40" /></a>
 
