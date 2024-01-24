@@ -2,6 +2,11 @@
 <h3 align="center">A Multi Domain Enthusiast and Young Scientist</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=karthikdani&label=Profile%20views&color=0e75c6&style=flat" alt="karthikdani" /> </p>
+![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivammenda&show_icons=true&theme=dracula&count_private=true)
+![](https://komarev.com/ghpvc/?username=KarthikDani&color=blue)
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shivammenda&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthikdani" alt="karthikdani" /></a> </p>
 
@@ -13,6 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="(https://www.linkedin.com/in/karthik-dani-95801616b/)" ><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+
 <a href="https://linkedin.com/in/karthik-dani-95801616b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthik-dani-95801616b" height="30" width="40" /></a>
 <a href="https://kaggle.com/karthikdani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="karthikdani" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/karthik dani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="karthik dani" height="30" width="40" /></a>
