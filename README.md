@@ -2,11 +2,12 @@
 <h3 align="center">A Multi Domain Enthusiast and Young Scientist</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=karthikdani&label=Profile%20views&color=0e75c6&style=flat" alt="karthikdani" /> </p>
+
 ![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivammenda&show_icons=true&theme=dracula&count_private=true)
-![](https://komarev.com/ghpvc/?username=KarthikDani&color=blue)
+![My](https://komarev.com/ghpvc/?username=KarthikDani&color=blue)
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shivammenda&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KarthikDani&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthikdani" alt="karthikdani" /></a> </p>
 
