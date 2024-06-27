@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karthik Dani</h1>
-<h3 align="center">A Multi Domain Enthusiast and Young Scientist</h3>
+<h3 align="center">A Multi Domain Enthusiast</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=karthikdani&label=Profile%20views&color=bd93f9&style=flat" alt="karthikdani" /> 
